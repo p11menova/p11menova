@@ -1,4 +1,12 @@
 ## privi 😊
+
+<a href="t.me/ektrntrpim">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://gitlab.se.ifmo.ru/pimi">
+    <img src="https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+  
 ## i'm currently studying at ITMO University
 ### on Computer Science Engineering '27
 
