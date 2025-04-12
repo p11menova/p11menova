@@ -1,6 +1,6 @@
 ## privi 😊
 
-<a href="t.me/ektrntrpim">
+<a href="https://t.me/ektrntrpim">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://gitlab.se.ifmo.ru/pimi">
