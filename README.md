@@ -1,4 +1,7 @@
-## Hi there 👋
+## privi 😊
+## i'm currently studying at ITMO University
+### on Computer Science Engineering '27
+
 
 <!--
 **p11menova/p11menova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+*here're my stats:*
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p11menova&layout=donut-vertical&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
