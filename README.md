@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 *here're my stats:*
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p11menova&layout=donut-vertical&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p11menova&layout=donut-vertical&langs_count=15&exclude_repo=prog_lab34)](https://github.com/anuraghazra/github-readme-stats)
