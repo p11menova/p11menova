@@ -1,10 +1,9 @@
-## privi 😊
-
+## <span style='color: red;'>privi 😊</span>
 <a href="https://t.me/ektrntrpim">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/telegram-hotpink?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://gitlab.se.ifmo.ru/pimi">
-    <img src="https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/gitlab-hotpink?style=for-the-badge&logo=gitlab&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   
 ## i'm currently studying at ITMO University
@@ -28,5 +27,6 @@ Here are some ideas to get you started:
 
 *here're my stats:*
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p11menova&layout=donut-vertical&langs_count=15&title_color=ff1493)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p11menova&layout=donut-vertical&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+
